@@ -35,12 +35,7 @@ class Solution {
 
         reverse(arr,0,n-1);
         reverse(arr,0,k-1);
-        reverse(arr,k,n-1);
-        for(int i =0;i<n;i++){
-            System.out.print(arr[i]);
-        }
-
-        
+        reverse(arr,k,n-1);        
     }
     static void reverse(int [] arr,int start,int end){
             while(start<end){
