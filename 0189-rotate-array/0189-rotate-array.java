@@ -42,7 +42,7 @@ class Solution {
 
         
     }
-    static int[] reverse(int [] arr,int start,int end){
+    static void reverse(int [] arr,int start,int end){
             while(start<end){
                 int temp = arr[start];
                 arr[start] = arr[end];
@@ -50,6 +50,5 @@ class Solution {
                 start++;
                 end--;
             }
-            return arr;
         }
 }
