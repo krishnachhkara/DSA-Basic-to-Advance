@@ -21,6 +21,7 @@ Java DSA practice questions and solutions.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
