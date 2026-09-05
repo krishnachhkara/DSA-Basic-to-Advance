@@ -1,13 +1,17 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int i = 0;
-        for(int j = 1;j<nums.length;j++){
-            if(nums[j]>nums[i]){
-                nums[i+1] = nums[j];
-                i+=1;
+        int k = 0;
+        for(int i = 1; i < nums.length; i++){
+            if(nums[i]!= nums[k]){
+                nums[k+1] = nums[i];
+                k++;
             }
-
         }
-        return i+1;
+        return k+1;
+        
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
