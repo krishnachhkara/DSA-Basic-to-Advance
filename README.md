@@ -17,6 +17,7 @@ Java DSA practice questions and solutions.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
@@ -35,4 +36,8 @@ Java DSA practice questions and solutions.
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
