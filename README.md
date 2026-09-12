@@ -20,6 +20,7 @@ Java DSA practice questions and solutions.
 | [0283-move-zeroes](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0349-intersection-of-two-arrays) |
+| [0680-valid-palindrome-ii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -43,4 +44,9 @@ Java DSA practice questions and solutions.
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
