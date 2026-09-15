@@ -16,6 +16,7 @@ Java DSA practice questions and solutions.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0344-reverse-string) |
@@ -43,6 +44,7 @@ Java DSA practice questions and solutions.
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
