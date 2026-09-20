@@ -7,6 +7,7 @@ Java DSA practice questions and solutions.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0349-intersection-of-two-arrays) |
@@ -16,6 +17,7 @@ Java DSA practice questions and solutions.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0283-move-zeroes) |
@@ -39,6 +41,7 @@ Java DSA practice questions and solutions.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0977-squares-of-a-sorted-array) |
 ## String
