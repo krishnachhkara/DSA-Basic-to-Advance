@@ -6,6 +6,7 @@ Java DSA practice questions and solutions.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0189-rotate-array) |
@@ -35,6 +36,7 @@ Java DSA practice questions and solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
