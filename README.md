@@ -45,6 +45,7 @@ Java DSA practice questions and solutions.
 | ------- |
 | [0001-two-sum](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
@@ -59,6 +60,7 @@ Java DSA practice questions and solutions.
 | [0075-sort-colors](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -66,6 +68,7 @@ Java DSA practice questions and solutions.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
