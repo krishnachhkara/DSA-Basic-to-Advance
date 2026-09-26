@@ -7,6 +7,7 @@ Java DSA practice questions and solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0049-group-anagrams) |
@@ -26,6 +27,7 @@ Java DSA practice questions and solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0075-sort-colors) |
@@ -81,6 +83,7 @@ Java DSA practice questions and solutions.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0680-valid-palindrome-ii) |
 ## Quicksort
 |  |
