@@ -18,6 +18,7 @@ Java DSA practice questions and solutions.
 | [0128-longest-consecutive-sequence](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0283-move-zeroes) |
@@ -61,6 +62,7 @@ Java DSA practice questions and solutions.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -109,6 +111,7 @@ Java DSA practice questions and solutions.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0238-product-of-array-except-self) |
 ## Union-Find
 |  |
@@ -118,4 +121,5 @@ Java DSA practice questions and solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
