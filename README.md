@@ -23,6 +23,7 @@ Java DSA practice questions and solutions.
 | [0238-product-of-array-except-self](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -67,6 +68,7 @@ Java DSA practice questions and solutions.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
