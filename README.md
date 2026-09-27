@@ -40,6 +40,7 @@ Java DSA practice questions and solutions.
 | [0283-move-zeroes](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -58,6 +59,7 @@ Java DSA practice questions and solutions.
 | [0217-contains-duplicate](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +87,7 @@ Java DSA practice questions and solutions.
 | [0125-valid-palindrome](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
@@ -122,4 +125,5 @@ Java DSA practice questions and solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
