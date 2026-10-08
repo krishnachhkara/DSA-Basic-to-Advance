@@ -48,6 +48,7 @@ Java DSA practice questions and solutions.
 | [0557-reverse-words-in-a-string-iii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0977-squares-of-a-sorted-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -148,6 +149,7 @@ Java DSA practice questions and solutions.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0876-middle-of-the-linked-list](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
