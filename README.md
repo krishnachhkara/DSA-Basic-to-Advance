@@ -23,6 +23,7 @@ Java DSA practice questions and solutions.
 | [0217-contains-duplicate](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0977-squares-of-a-sorted-array) |
@@ -45,6 +46,7 @@ Java DSA practice questions and solutions.
 | [0189-rotate-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -81,6 +83,7 @@ Java DSA practice questions and solutions.
 | [0035-search-insert-position](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -162,4 +165,13 @@ Java DSA practice questions and solutions.
 | [0141-linked-list-cycle](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
