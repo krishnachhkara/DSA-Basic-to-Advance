@@ -1,32 +1,31 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        int i = 0,
-            j = s.length() - 1;
+        int i = 0;
+        int j = s.length() - 1;
 
-        while(i<j){
-            char left = s.charAt(i);
-            char right = s.charAt(j);
+        // for empty and one element check
+        if(s.length() == 1){
+            return true;
+        }
 
-            if(!Character.isLetterOrDigit(left)){
-                i = i+1;
-                continue;
+        while(i < j){
+            while(i<j && !Character.isLetterOrDigit(s.charAt(i))){
+                i = i + 1;
             }
-
-            if(!Character.isLetterOrDigit(right)){
+            while(i<j &&!Character.isLetterOrDigit(s.charAt(j))){
                 j = j - 1;
-                continue;
             }
-
-            if(Character.toLowerCase(left) != Character.toLowerCase(right)){
-                return false;
+            if((Character.toLowerCase(s.charAt(i))) != (Character.toLowerCase(s.charAt(j)))){
+               return false;
             }
-
-            i = i + 1;
-            j = j - 1;
-        }    
+            i++;
+            j--;
+            
+        }
 
         return true;
-    }
+        
+}
 }
 
 // Synced seamlessly with LeetHub Pro
