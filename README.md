@@ -52,6 +52,7 @@ Java DSA practice questions and solutions.
 | [0287-find-the-duplicate-number](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0680-valid-palindrome-ii) |
@@ -112,6 +113,7 @@ Java DSA practice questions and solutions.
 | [0151-reverse-words-in-a-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0567-permutation-in-string) |
@@ -136,6 +138,7 @@ Java DSA practice questions and solutions.
 | ------- |
 | [0053-maximum-subarray](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
