@@ -19,6 +19,7 @@ Java DSA practice questions and solutions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0217-contains-duplicate) |
@@ -76,6 +77,7 @@ Java DSA practice questions and solutions.
 | [0128-longest-consecutive-sequence](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0242-valid-anagram) |
@@ -99,6 +101,7 @@ Java DSA practice questions and solutions.
 | [0049-group-anagrams](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0349-intersection-of-two-arrays) |
@@ -143,6 +146,7 @@ Java DSA practice questions and solutions.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -192,4 +196,12 @@ Java DSA practice questions and solutions.
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0234-palindrome-linked-list) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
