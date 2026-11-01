@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters">1987. Substrings of Size Three with Distinct Characters</a></h2><h3>Easy</h3><hr><p>A string is <strong>good</strong> if there are no repeated characters.</p>
+<h2><a href="https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters">1876. Substrings of Size Three with Distinct Characters</a></h2><h3>Easy</h3><hr><p>A string is <strong>good</strong> if there are no repeated characters.</p>
 
 <p>Given a string <code>s</code>​​​​​, return <em>the number of <strong>good substrings</strong> of length <strong>three </strong>in </em><code>s</code>​​​​​​.</p>
 
