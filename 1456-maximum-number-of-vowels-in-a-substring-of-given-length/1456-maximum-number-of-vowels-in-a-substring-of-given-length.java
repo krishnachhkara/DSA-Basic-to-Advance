@@ -37,7 +37,9 @@ class Solution {
                 count++;
             }
 
-            maxcount = Math.max(maxcount,count);
+            if(i >= k-1){
+                maxcount = Math.max(maxcount,count);
+            }
         }
 
         return maxcount;
