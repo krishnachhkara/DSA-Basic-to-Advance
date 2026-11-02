@@ -1,52 +1,92 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
 
-        HashMap<Character,Integer> smap = new HashMap<>();
-        HashMap<Character,Integer> pmap = new HashMap<>();  
-        ArrayList<Integer> list = new ArrayList<>();
+        // HashMap<Character,Integer> smap = new HashMap<>();
+        // HashMap<Character,Integer> pmap = new HashMap<>();  
+        // ArrayList<Integer> list = new ArrayList<>();
 
-        // filling pmap
-        for(int i = 0; i<p.length();i++){
-            if(pmap.containsKey(p.charAt(i))){
-                pmap.put(p.charAt(i),pmap.get(p.charAt(i))+1);
-            }
-            else{
-                pmap.put(p.charAt(i),1);
-            }
-        } 
+        // // filling pmap
+        // for(int i = 0; i<p.length();i++){
+        //     if(pmap.containsKey(p.charAt(i))){
+        //         pmap.put(p.charAt(i),pmap.get(p.charAt(i))+1);
+        //     }
+        //     else{
+        //         pmap.put(p.charAt(i),1);
+        //     }
+        // } 
 
-        int left = 0;
+        // int left = 0;
 
-        for(int right = 0; right<s.length();right++){
-            //map filling logic
-            if(smap.containsKey(s.charAt(right))){
-                smap.put(s.charAt(right),smap.get(s.charAt(right))+1);
-            }
-            else{
-                smap.put(s.charAt(right),1);
-            }
+        // for(int right = 0; right<s.length();right++){
+        //     //map filling logic
+        //     if(smap.containsKey(s.charAt(right))){
+        //         smap.put(s.charAt(right),smap.get(s.charAt(right))+1);
+        //     }
+        //     else{
+        //         smap.put(s.charAt(right),1);
+        //     }
 
-            //map size limit logic
-            if((right-left+1)>p.length()){
-                char ch = s.charAt(left);
+        //     //map size limit logic
+        //     if((right-left+1)>p.length()){
+        //         char ch = s.charAt(left);
 
-                smap.put(ch,smap.get(ch)-1);
+        //         smap.put(ch,smap.get(ch)-1);
 
-                if(smap.get(ch) == 0){
-                    smap.remove(ch);
-                }
-                left++;
+        //         if(smap.get(ch) == 0){
+        //             smap.remove(ch);
+        //         }
+        //         left++;
 
-            }
+        //     }
 
            
-            if(pmap.equals(smap)){
-                list.add(left);
-            }
+        //     if(pmap.equals(smap)){
+        //         list.add(left);
+        //     }
             
+        // }
+
+        // return list;
+
+        ArrayList<Integer> list = new ArrayList<>();
+        int[] sfreq = new int[26];
+        int[] pfreq = new int[26];
+
+        // filling first array
+        for(int i = 0; i < p.length(); i++){
+            char ch = p.charAt(i);
+            pfreq[ch - 'a']++;
+        }
+
+        int left = 0;
+        int k = p.length();
+
+        // creating window and sliding it 
+        for(int right = 0; right < s.length(); right++){
+            char ch = s.charAt(right);
+
+            //adding element
+            sfreq[ch - 'a']++;
+
+            //checking overflow condition
+            if(right >= k ){
+                sfreq[s.charAt(right - k) - 'a']--;
+                left++;
+            }
+
+            // checking the condition for window
+
+            if(right >= k-1){
+                if(Arrays.equals(sfreq,pfreq)){
+                    list.add(left);
+                    
+                }
+                
+            }
         }
 
         return list;
+
 
     }
 }
