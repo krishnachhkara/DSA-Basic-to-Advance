@@ -36,7 +36,7 @@ class Solution {
             {
                 count++;
             }
-
+            // updating max count only for k size window
             if(i >= k-1){
                 maxcount = Math.max(maxcount,count);
             }
