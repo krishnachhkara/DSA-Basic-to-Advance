@@ -35,6 +35,7 @@ Java DSA practice questions and solutions.
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3477-fruits-into-baskets-ii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/3477-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Java DSA practice questions and solutions.
 | [0704-binary-search](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/1004-max-consecutive-ones-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3477-fruits-into-baskets-ii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/3477-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -219,4 +221,16 @@ Java DSA practice questions and solutions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0169-majority-element) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/3477-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
