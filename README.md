@@ -27,6 +27,7 @@ Java DSA practice questions and solutions.
 | [0283-move-zeroes](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0977-squares-of-a-sorted-array) |
