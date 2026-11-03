@@ -89,6 +89,7 @@ Java DSA practice questions and solutions.
 | [0217-contains-duplicate](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0904-fruit-into-baskets) |
@@ -129,6 +130,7 @@ Java DSA practice questions and solutions.
 | [0242-valid-anagram](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0567-permutation-in-string) |
@@ -177,6 +179,7 @@ Java DSA practice questions and solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0643-maximum-average-subarray-i) |
