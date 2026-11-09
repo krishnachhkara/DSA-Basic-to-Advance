@@ -73,6 +73,7 @@ Java DSA practice questions and solutions.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0202-happy-number) |
 ## Hash Table
@@ -158,6 +159,7 @@ Java DSA practice questions and solutions.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
@@ -246,4 +248,8 @@ Java DSA practice questions and solutions.
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/3477-fruits-into-baskets-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
