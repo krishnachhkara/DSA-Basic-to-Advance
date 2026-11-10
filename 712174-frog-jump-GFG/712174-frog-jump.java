@@ -38,24 +38,46 @@
 
         int minCost(int[] height) {
             // code here
+            // tabulation
+            // int n = height.length;
+            // int[] dp = new int[n+1];
+            
+            // dp[0] = 0;
+            
+            // int fs = 0;
+            // int ss = Integer.MAX_VALUE;
+            
+            // for(int i = 1; i < n; i++ ){
+            //     fs = dp[i-1] + Math.abs(height[i] - height[i-1]);
+            //     if(i>1){
+            //         ss = dp[i-2] + Math.abs(height[i] - height[i-2]);
+            
+            //     }
+            //     dp[i] = Math.min(fs,ss);
+            // }
+            // return dp[n-1];
+            
             // tabulation with space optimization
             int n = height.length;
-            int[] dp = new int[n+1];
             
-            dp[0] = 0;
+            
+            int prev = 0;
+            int prev2 = 0;
             
             int fs = 0;
             int ss = Integer.MAX_VALUE;
             
             for(int i = 1; i < n; i++ ){
-                fs = dp[i-1] + Math.abs(height[i] - height[i-1]);
+                fs = prev + Math.abs(height[i] - height[i-1]);
                 if(i>1){
-                    ss = dp[i-2] + Math.abs(height[i] - height[i-2]);
+                    ss = prev2 + Math.abs(height[i] - height[i-2]);
             
                 }
-                dp[i] = Math.min(fs,ss);
+                int curi = Math.min(fs,ss);
+                prev2 = prev;
+                prev = curi;
             }
-            return dp[n-1];
+            return prev;
 
         }
     }
