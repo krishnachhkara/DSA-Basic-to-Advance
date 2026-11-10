@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/min-cost-climbing-stairs">747. Min Cost Climbing Stairs</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>cost</code> where <code>cost[i]</code> is the cost of <code>i<sup>th</sup></code> step on a staircase.</p>
+<h2><a href="https://leetcode.com/problems/min-cost-climbing-stairs">746. Min Cost Climbing Stairs</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>cost</code> where <code>cost[i]</code> is the cost of <code>i<sup>th</sup></code> step on a staircase.</p>
 
 <p>Once you pay the cost, you can either climb <strong>one</strong> or <strong>two</strong> steps.</p>
 
