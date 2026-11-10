@@ -31,6 +31,7 @@ Java DSA practice questions and solutions.
 | [0643-maximum-average-subarray-i](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0713-subarray-product-less-than-k) |
+| [0746-min-cost-climbing-stairs](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/1004-max-consecutive-ones-iii) |
@@ -162,6 +163,7 @@ Java DSA practice questions and solutions.
 | [0070-climbing-stairs](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0746-min-cost-climbing-stairs) |
 ## Divide and Conquer
 |  |
 | ------- |
