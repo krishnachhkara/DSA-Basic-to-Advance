@@ -23,6 +23,7 @@ Java DSA practice questions and solutions.
 | [0189-rotate-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0283-move-zeroes) |
@@ -164,6 +165,7 @@ Java DSA practice questions and solutions.
 | [0070-climbing-stairs](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0746-min-cost-climbing-stairs) |
 ## Divide and Conquer
