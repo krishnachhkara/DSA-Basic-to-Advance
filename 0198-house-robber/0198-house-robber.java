@@ -1,35 +1,64 @@
 class Solution {
-    public int f(int idx, int[]dp,int[]nums){
-        if(idx == 0){
-            return nums[idx];
-        }
-        if(idx < 0){
-            return 0;
-        }
+    // public int f(int idx, int[]dp,int[]nums){
+    //     if(idx == 0){
+    //         return nums[idx];
+    //     }
+    //     if(idx < 0){
+    //         return 0;
+    //     }
 
-        if(dp[idx] != -1){
-            return dp[idx];
-        } 
+    //     if(dp[idx] != - 1){
+    //         return dp[idx];
+    //     } 
 
-        int rob = nums[idx] + f(idx - 2,dp,nums);    
-        int norob = f(idx-1,dp,nums);// no money so no nums[idx] is added    
+    //     int rob = nums[idx] + f(idx - 2,dp,nums);    
+    //     int norob = f(idx-1,dp,nums);// no money so no nums[idx] is added    
         
 
-        dp[idx] = Math.max(rob,norob);
-        return dp[idx];
+    //     dp[idx] = Math.max(rob,norob);
+    //     return dp[idx];
         
         
         
-    }
+    // }
+    // public int rob(int[] nums) {
+    //     // recursion and memorization
+    //     int n = nums.length;
+
+    //     int[] dp = new int[n + 1];
+    //     Arrays.fill(dp,-1);
+
+    //     return f(n-1,dp,nums);
+    // }
+
+
+    //tabulation 
+
     public int rob(int[] nums) {
-        // recursion and memorization
+        
         int n = nums.length;
 
         int[] dp = new int[n + 1];
-        Arrays.fill(dp,-1);
 
-        return f(n-1,dp,nums);
+        dp[0] = 0;
+        dp[1] = nums[0];
+
+        for(int i = 2; i <= n; i++){
+           
+        
+            int rob = nums[i-1] + dp[i-2];
+            
+            int norob = dp[i-1];
+
+            dp[i] = Math.max(rob,norob);
+        }
+
+        return dp[n];
+        
+
+        
     }
+
 }
 
 // Synced seamlessly with LeetHub Pro
