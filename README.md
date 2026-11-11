@@ -28,6 +28,7 @@ Java DSA practice questions and solutions.
 | [0238-product-of-array-except-self](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0643-maximum-average-subarray-i) |
@@ -166,6 +167,7 @@ Java DSA practice questions and solutions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0746-min-cost-climbing-stairs) |
 ## Divide and Conquer
@@ -258,4 +260,16 @@ Java DSA practice questions and solutions.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
