@@ -77,6 +77,7 @@ Java DSA practice questions and solutions.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0202-happy-number) |
@@ -163,6 +164,7 @@ Java DSA practice questions and solutions.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0198-house-robber) |
@@ -272,4 +274,8 @@ Java DSA practice questions and solutions.
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0322-coin-change) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/krishnachhkara/DSA-Basic-to-Advance/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
